@@ -1,0 +1,30 @@
+/*  MICROTHEMER STYLES  */
+
+/*= Full Code Editor CSS ====== */
+
+body {
+    background-color: #FFFFFF;
+}
+.elementor-element .row {
+	border: solid 2px #809B77;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.elementor-background-overlay {
+	border-bottom: 10px solid #E5D0B0;
+	background-color: #809B77;
+}
+#site-header {
+	border-bottom: 10px solid #E5D0B0;
+	background-color: #809B77;
+}
+#footer-bottom {
+	border-top: 10px solid #E5D0B0;
+	background-color: #809B77;
+	color: black;
+}
+.showData {
+    color:green;
+}
+
